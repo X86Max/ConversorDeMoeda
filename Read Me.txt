@@ -1,0 +1,1 @@
+Olá, você que está lendo isso, saiba que o programa a seguir é um conversor de dólar, ou seja, converte a moeda real, que é a moeda oficial do Brasil, para o dólar.
